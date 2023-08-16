@@ -1,0 +1,209 @@
+/*common css start*/
+body{font-size: 16px;
+font-weight: 400px;
+color: #000000;}
+
+
+
+
+
+/*common css end*/
+/*header css start*/
+header{background-color: #f0fff0;}
+.c_nav{}
+.logo{width: 230px;}
+.menu{}
+.menu ul li a{padding: 0 25px !important;
+	color: #000000;}
+.menu ul li a:hover{color: #FD511A !important;}
+.btn_cm{
+	background-color:#21B573;
+border-radius: 33px;}
+.btn_sign{
+	padding: 12px 28px;
+}
+.btn_c{background-color:#21B573;
+border-radius: 33PX;
+align-self: center;}
+
+
+/*header css end*/
+/*banner start*/
+.banner{width:100%;
+padding: 80px 0px;}
+.inner-banner{width: 100%;
+padding: 40px 0px 0px;}
+
+.inner-banner h4 {font-size: 18px;
+font-weight: 500px;
+color:red!important;
+line-height: 1.2em !important;}
+
+.inner-banner h1 span{
+	color: #21B573;
+}
+.inner-banner p{
+	font-size: 16px;
+	font-weight: 400px;
+	line-height: 1.7em;
+	color:#000000;
+}
+.inner-banner a{color:whitesmoke;
+	background-color:#21b573;
+	border-radius: 333PX;
+
+}
+
+/*banner end*/
+/*feature start*/
+.feature{width:100%;
+padding:80px 0px;
+ }
+.feature .inner-feature{width: 100%;
+padding: 60px 40px;
+text-align: center;
+background: ##F8FFFB;
+border-radius: 10px;
+transition: 1s;}
+
+.feature .inner-feature img{width: 100px;
+height: 85px;
+margin: 0px 0px 25px;
+}
+
+.feature .inner-feature h4{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: #000;
+    margin: 0px ;
+}
+.feature .inner-feature p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7em;
+    color: #585859;
+    margin: 0px ;
+}
+.feature .inner-feature:hover {
+    background: #fff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+/*feature*/
+
+/* online-courses start*/
+.online-courses{width: 100%;
+padding: 80px 0px;}
+
+
+
+
+.online-courses .card
+{padding: 20px;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border: 0px;
+border-radius: 10px;}
+
+
+
+.online-courses .card .card-body .card-title{
+	font-size: 20px;
+	font-weight: 500px;
+    line-height: 1.2em;
+    text-transform: capitalize;
+    color: #000000;
+    margin: 10px 0px 5px;
+}
+
+
+
+.online-courses .card .card-body .info{margin: 40px 0px 0px;}
+
+ .online-courses .card .card-body .info img{width: 34px;}
+
+
+
+
+.text-right{text-align: right;}
+.testimonal
+{width: 100%;
+padding: 80px 0px;}
+
+.testimonal .title{ text-align:center;
+font-size:52px;
+font-weight:700px;
+color:#000000;
+line-height:1.4em;
+margin:0px 0px 40px; }
+
+.testimonal .client{width: 120px;
+height: 120px;
+border-radius: 100%;}
+
+
+
+
+
+.testimonal .c_blog{width: 120px;
+height: 120px;
+border-radius: 100%;}
+
+.testimonal-text{
+	font-size: 16px;
+	font-weight: 400px;
+	color: #000000;
+	margin: 10px 0px 0px;
+}
+.testimonal .c_blog{text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* online -courses end*/
+/*footer css start*/
+.footer
+{background-color: #282531;
+padding: 80px 0px 0px;
+width: 100%;}
+
+
+.footer  p{font-size: 16px;
+color: #fff;}
+
+
+
+.widget li{
+	list-style: none;
+	display: block;
+}
+
+.widget li a{margin: 0px 0px 7px;
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400px;
+	line-height: 1.7em;
+}
+.widget li:active{font-weight: 700px;}
+
+.copyright{width: 100%;
+padding: 60px 0px 20px;}
+
+.copyright p{text-align: center;
+font-size: 16px;
+line-height: 1.7em;
+color: #fff;
+margin: 0px;}
+
